@@ -116,16 +116,3 @@ accredian-enterprise/
 
 ---
 
-## What I Would Improve With More Time
-
-1. **Framer Motion animations** — Add scroll-triggered fade-in/slide-up animations to each section for a more polished feel
-2. **Backend persistence** — Replace the in-memory leads array with a proper database (e.g., PostgreSQL via Prisma, or MongoDB) so data survives server restarts
-3. **Image optimization** — Add real product screenshots, partner logos, and team photos using Next.js `<Image>` component with proper `alt` text
-4. **SEO improvements** — Add Open Graph meta tags, structured data (JSON-LD), and a sitemap
-5. **Testing** — Write unit tests for components and API routes using Vitest or Jest
-6. **Accessibility audit** — Run through WAVE/Lighthouse to catch any remaining ARIA label or contrast issues
-7. **Dark mode** — Add a theme toggle using Tailwind's `dark:` variant and `prefers-color-scheme` media query
-8. **Analytics** — Integrate Vercel Analytics or Google Analytics to track section engagement
-
----
-
