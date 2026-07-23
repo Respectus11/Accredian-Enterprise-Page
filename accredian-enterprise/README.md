@@ -129,14 +129,3 @@ accredian-enterprise/
 
 ---
 
-## Evaluation Criteria Mapping
-
-| Criteria | How This Project Addresses It |
-|---|---|
-| **Execution & UI quality** | Clean, professional design with consistent spacing, typography, and color system across all 9 sections |
-| **Code structure & readability** | One component per file, clear naming, TypeScript interfaces for data shapes |
-| **Component reusability** | Each section is a self-contained component; theme tokens allow global style changes from one place |
-| **Thought process & improvements** | Documented approach, identified clear improvement areas for future iterations |
-| **Effective use of AI** | Used Claude for scaffolding and Copilot for autocomplete, then manually refined all outputs |
-| **Bonus: Lead capture form** | Full form with client-side state, API validation, loading/success/error feedback |
-| **Bonus: API data storage** | Two Next.js API routes with POST/GET operations and input validation |
