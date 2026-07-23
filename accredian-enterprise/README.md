@@ -2,7 +2,7 @@
 
 A partial clone of the [Accredian Enterprise](https://enterprise.accredian.com/) website, built with Next.js App Router and Tailwind CSS. This project recreates the enterprise landing page with all major sections, a lead capture form, and mock API integration.
 
-**Live Demo:** [https://accredian-enterprise-page.vercel.app](https://accredian-enterprise-page.vercel.app)
+**Live Demo:** [https://accredian-enterprise-three-weld.vercel.app](https://accredian-enterprise-three-weld.vercel.app)
 
 **GitHub Repo:** [https://github.com/Respectus11/Accredian-Enterprise-Page](https://github.com/Respectus11/Accredian-Enterprise-Page)
 
